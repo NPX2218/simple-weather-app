@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-weather-app/static/css/main.a460e620.css",
+    "main.js": "/simple-weather-app/static/js/main.5dc7cb02.js",
+    "index.html": "/simple-weather-app/index.html",
+    "main.a460e620.css.map": "/simple-weather-app/static/css/main.a460e620.css.map",
+    "main.5dc7cb02.js.map": "/simple-weather-app/static/js/main.5dc7cb02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a460e620.css",
+    "static/js/main.5dc7cb02.js"
+  ]
+}
